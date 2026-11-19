@@ -12,6 +12,10 @@ description: >-
 A plan that does not fit the week is a list of regrets. Ask two questions before writing anything:
 **how many hours do you actually have**, and **what is already half-made**.
 
+## Shorts-first week
+
+When the creator asks for original cinematic Shorts, use their available hours and half-made assets to plan standalone concepts. Monday is the planning day. Balance VFX, Creative and Experience across available slots. If only one fits, rotate categories next week. Give each concept a visible opening, payoff, time budget (generation, retries and edit), and production stage. Compare premises and payoffs with supplied past concepts and flag near-duplicates. If no history is available, say so. Hand the selected idea to the original mode of `/yt-shorts`. For a new creator without sample videos, use their stated voice and language. Use the anchor-based week below for mixed or long-form plans.
+
 ## Before you write
 
 1. Read `~/.claude/youtube/voice.md` if it exists. That is the user's voice profile: how they talk
